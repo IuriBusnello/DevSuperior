@@ -42,8 +42,8 @@ public class desafioImposto {
 
             impostoCapital = 20;
         }
-
-        
+        // falta calculos dos impostos
+        // falta deduções e resumo
 
 
     }
